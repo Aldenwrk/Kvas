@@ -20,7 +20,10 @@ margin: 0 auto;
 background-image:url("img/wheat_backgroundjpg.png");
 background-size:cover;
 background-color:grey;
-font-weight:700;
+}
+.page-header img{
+margin-top:60px;
+margin-right:60px;
 }
 
 .main-nav{
@@ -28,6 +31,7 @@ list-style:none;
   margin:0;
   padding:0;
   float:right;
+  margin-top:70px;
 }
 .main-nav li{
 text-transform:uppercase;
@@ -41,5 +45,6 @@ text-decoration:none;
 display:block;
 border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
-padding:23px 25px 23px 25px;
+padding:22px 23px 22px 23px;
+  font-weight:700;
 }
