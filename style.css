@@ -27,6 +27,7 @@ font-weight:700;
 list-style:none;
   margin:0;
   padding:0;
+  float:right;
 }
 .main-nav li{
 text-transform:uppercase;
