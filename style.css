@@ -37,7 +37,7 @@ text-transform:uppercase;
  display:inline-block;
   border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
-  margin 0 -5px;
+  margin:0 -2px;
 }
 
 .main-nav li a{
