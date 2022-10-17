@@ -20,7 +20,7 @@ list-style:none;
 }
 .main-nav li{
 text-transform:uppercase;
- display:inline;
+ display:inline-block;
 }
 
 .main-nav li a{
@@ -28,8 +28,7 @@ font-size:16px;
 color:#fff;
 text-decoration:none;
 display:block;
-padding-top:23px;
-padding-bottom:23px;
 border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
+padding:23px 25px 23px 25px;
 }
