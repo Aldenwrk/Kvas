@@ -25,6 +25,8 @@ font-weight:700;
 
 .main-nav{
 list-style:none;
+  margin:0;
+  padding:0;
 }
 .main-nav li{
 text-transform:uppercase;
