@@ -37,7 +37,7 @@ text-transform:uppercase;
  display:inline-block;
   border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
-  margin:0 -2px;
+  margin:0 -2.4px;
 }
 
 .main-nav li a{
@@ -48,4 +48,13 @@ display:block;
 
 padding:22px 23px 22px 23px;
   font-weight:700;
+}
+.page-header p{
+margin-top:134px;
+  text-align:center;
+  font-size: 70px;
+line-height: 70px;
+font-weight: 700;
+  color:#fff;
+  margin-bottom:151px;
 }
