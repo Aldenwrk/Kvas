@@ -20,7 +20,7 @@ list-style:none;
 }
 .main-nav li{
 text-transform:uppercase;
- display:inline-block;
+ display:inline;
 }
 
 .main-nav li a{
