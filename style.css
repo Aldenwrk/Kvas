@@ -35,6 +35,8 @@ margin-top:70px;
 .main-nav li{
 text-transform:uppercase;
  display:inline-block;
+  border-top:1px solid rgba(255, 255, 255, 0.2);
+border-bottom:1px solid rgba(255, 255, 255, 0.2);
 }
 
 .main-nav li a{
@@ -42,8 +44,7 @@ font-size:16px;
 color:#fff;
 text-decoration:none;
 display:block;
-border-top:1px solid rgba(255, 255, 255, 0.2);
-border-bottom:1px solid rgba(255, 255, 255, 0.2);
+
 padding:22px 23px 22px 23px;
   font-weight:700;
 }
