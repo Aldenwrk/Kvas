@@ -8,11 +8,11 @@ body{
   }
 .center-norm{
 width:800px;
-margin 0 auto;
+margin: 0 auto;
 }
 .center-wide{
 width:1015px;
-margin 0 auto;
+margin: 0 auto;
 }
 
 /*Header*/
