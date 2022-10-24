@@ -15,7 +15,12 @@ width:1015px;
 margin: 0 auto;
 }
 
+
+
 /*Header*/
+
+
+
 .page-header{
 background-image:url("img/wheat_backgroundjpg.png");
 background-size:cover;
@@ -45,10 +50,16 @@ font-size:16px;
 color:#fff;
 text-decoration:none;
 display:block;
-
 padding:22px 23px 22px 23px;
   font-weight:700;
 }
+.main-nav li a:hover{
+color: #ffcb78;
+}
+.main-nav li:hover{
+border-bottom:1px solid rgb(255, 255, 255);
+}
+
 .page-header p{
 margin-top:134px;
   text-align:center;
