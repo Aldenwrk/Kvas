@@ -49,7 +49,7 @@ display:table;
 
 .main-nav{
 list-style:none;
-  margin:8px 0 8px 55px;
+  margin:8px 0;
   padding:0;
   float:right;
 }
@@ -58,7 +58,7 @@ text-transform:uppercase;
 display:inline-block;
 border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
-padding:0 21px;
+padding:0 28px;
 margin:0 -2.5px;
 }
 .main-nav li:first-child{
