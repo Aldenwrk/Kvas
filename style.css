@@ -41,7 +41,7 @@ width:140px;
 height:76px;
 }
 
-.clearfix{
+.clearfix::after{
 content:"";
 clear:both;
 display:table;
