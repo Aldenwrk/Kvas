@@ -27,6 +27,20 @@ background-size:cover;
 background-color:grey;
 padding-top:60px;
 }
+.header-top-wrapper{
+vertical-align:middle;
+}
+
+.header-logo{
+float:left;
+width:140px;
+height:76px;
+}
+.logo{
+width:140px;
+height:76px;
+}
+
 .clearfix{
 content:"";
 clear:both;
@@ -41,10 +55,9 @@ list-style:none;
 }
 .main-nav li{
 text-transform:uppercase;
- display:inline-block;
-  border-top:1px solid rgba(255, 255, 255, 0.2);
+display:inline-block;
+border-top:1px solid rgba(255, 255, 255, 0.2);
 border-bottom:1px solid rgba(255, 255, 255, 0.2);
-  margin:0 -2.4px;
 }
 
 .main-nav li a{
@@ -52,7 +65,7 @@ font-size:16px;
 color:#fff;
 text-decoration:none;
 display:block;
-padding:14px 23px 14px 23px;
+padding:14px 10px 14px 10px;
   font-weight:700;
 }
 .main-nav li a:hover{
