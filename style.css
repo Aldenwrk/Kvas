@@ -22,7 +22,8 @@ margin: 0 auto;
 
 
 .page-header{
-background:url("img/wheat-back.jpg") no-repeat bottom;
+background-image:url("img/wheat-back.jpg");
+background-position:bottom;
 background-size:cover;
 background-color:grey;
 padding-top:60px;
@@ -76,7 +77,7 @@ padding-right:0;
 font-size:16px;
 color:#fff;
 text-decoration:none;
-padding:19.5px 0 19.5px 0;
+padding:20px 0 20px 0;
 font-weight:700;
 line-height:1;
 }
