@@ -26,6 +26,7 @@ background:url("img/wheat-back.jpg") no-repeat bottom;
 background-size:cover;
 background-color:grey;
 padding-top:60px;
+min-height:550px;
 }
 .header-top-wrapper{
 vertical-align:middle;
