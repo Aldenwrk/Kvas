@@ -24,7 +24,7 @@ margin: 0 auto;
 .page-header{
 background-image:url("img/wheat-back.jpg");
   background-repeat: no-repeat;
-background-position:100% 100%;
+background-position:bottom right;
 background-size:cover;
 background-color:grey;
 padding-top:60px;
