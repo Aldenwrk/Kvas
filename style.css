@@ -73,7 +73,7 @@ padding-right:0;
 font-size:16px;
 color:#fff;
 text-decoration:none;
-padding:11px 0 2px 0;
+padding:11px 0 3px 0;
 font-weight:700;
   display: table-cell;
 vertical-align: center;
@@ -90,12 +90,15 @@ opacity:0.3;
 border-bottom:1px solid rgb(255, 255, 255);
 }
 
-.page-header p{
-margin-top:152px;
-  text-align:center;
-  font-size: 70px;
+.page-header .promo{
+.promo {
+font-weight: bold;
+font-size: 70px;
 line-height: 70px;
-font-weight: 700;
-  color:#fff;
-  padding-bottom:151px;
+font-family: “Arial”, sans-serif;
+text-align: center;
+color: #ffffff;
+}
+
+
 }
