@@ -25,9 +25,12 @@ margin: 0 auto;
 background:url("img/wheat-back.jpg") no-repeat bottom;
 background-size:cover;
 background-color:grey;
+padding-top:60px;
 }
-.page-header img{
-margin-top:60px;
+.clearfix{
+content:"";
+clear:both;
+display:table;
 }
 
 .main-nav{
@@ -35,7 +38,6 @@ list-style:none;
   margin:0;
   padding:0;
   float:right;
-margin-top:70px;
 }
 .main-nav li{
 text-transform:uppercase;
