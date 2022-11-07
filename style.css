@@ -49,7 +49,7 @@ display:table;
 
 .main-nav{
 list-style:none;
-  margin:0;
+  margin:5px 0 5px 60px;
   padding:0;
   float:right;
 }
