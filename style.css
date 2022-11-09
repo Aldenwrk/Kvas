@@ -31,6 +31,8 @@ height:550px;
 }
 .page-header .center-norm{
 margin-top:60px;
+height: 325px;
+display: inline-block;
 }
 .header-top-wrapper{
 vertical-align:middle;
