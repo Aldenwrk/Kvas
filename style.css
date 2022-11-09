@@ -28,12 +28,9 @@ background-position:bottom right;
 background-size:cover;
 background-color:grey;
 height:550px;
+  padding-top:60px;
 }
-.page-header .center-norm{
-margin-top:60px;
-height: 325px;
-display: inline-block;
-}
+
 .header-top-wrapper{
 vertical-align:middle;
 }
